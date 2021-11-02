@@ -32,12 +32,9 @@ The details of the project can be found here: [project plan](https://github.ubc.
 │   │   ├── travel_bert.ipynb
 │   │   └── vaccine_bert.ipynb
 │   ├── unsupervised
-│   │   └── Roberta_topic.ipynb
-│   └── linguistic_features
-│       ├── NER.ipynb
-│       ├── parsing.ipynb
-│       ├── sentiment.ipynb
-│       └── SRL
+│   |   └── topic_model.ipynb
+│   |   └── hierarchial_clustering.ipynb
+│   |   └── kmeans.ipynb
 ├── meeting_minutes
 ├── meetubg_slides
 └── project_plan
